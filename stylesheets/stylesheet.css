@@ -22,7 +22,6 @@ body {
   top: 280px;
   left: 10%;
   width: 24%;
-  padding: 1%;
 }
 
 .column2 {
@@ -30,7 +29,6 @@ body {
   top: 280px;
   left: 38%;
   width: 24%;
-  padding: 1%;
 }
 
 .column3 {
@@ -38,10 +36,8 @@ body {
   top: 280px;
   left: 66%;
   width: 24%;
-  padding: 1%;
 }
 
-}
 
 .box {
   margin-top: 25px;
@@ -52,6 +48,10 @@ body {
 }
 
 .box h2 {
+}
+
+.box:hover {
+  padding: 10px;
 }
 
 .box img {
