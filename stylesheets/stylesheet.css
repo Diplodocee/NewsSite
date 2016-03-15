@@ -17,9 +17,36 @@ body {
   padding-top: 80px;
 }
 
+.column1 {
+  position: absolute;
+  top: 25px;
+  left: 10%;
+  width: 24%;
+  padding: 0px;
+}
+
+.column2 {
+  position: absolute;
+  top: 25px;
+  left: 38%;
+  width: 24%;
+  padding: 0px;
+}
+
+.column3 {
+  position: absolute;
+  top: 25px;
+  left: 66%;
+  width: 24%;
+  padding: 0px;
+}
+
+}
+
 .box {
   margin-top: 25px;
   padding: 10px;
+  width: 100%;
 }
 
 .box:last-child {
