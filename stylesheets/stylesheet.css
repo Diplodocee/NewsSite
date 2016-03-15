@@ -19,21 +19,21 @@ body {
 
 .column1 {
   position: absolute;
-  top: 280px;
+  top: 260px;
   left: 10%;
   width: 24%;
 }
 
 .column2 {
   position: absolute;
-  top: 280px;
+  top: 260px;
   left: 38%;
   width: 24%;
 }
 
 .column3 {
   position: absolute;
-  top: 280px;
+  top: 260px;
   left: 66%;
   width: 24%;
 }
