@@ -63,6 +63,14 @@ body {
 .box a.read-more {
 }
 
+.filler {
+  margin-top: 25px;
+  width: 100%;
+  height: 100%;
+  margin-bottom: 100px;
+  min-height: 100px;
+}
+
 .floater {
     position: fixed;
     bottom: 80;
