@@ -22,7 +22,7 @@ body {
   top: 250px;
   left: 10%;
   width: 24%;
-  padding: 10%;
+  padding: 1%;
 }
 
 .column2 {
@@ -30,7 +30,7 @@ body {
   top: 250px;
   left: 38%;
   width: 24%;
-  padding: 10%;
+  padding: 1%;
 }
 
 .column3 {
@@ -38,7 +38,7 @@ body {
   top: 250px;
   left: 66%;
   width: 24%;
-  padding: 10%;
+  padding: 1%;
 }
 
 }
