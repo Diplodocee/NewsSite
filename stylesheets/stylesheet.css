@@ -19,7 +19,7 @@ body {
 
 .column1 {
   position: absolute;
-  top: 25px;
+  top: 225px;
   left: 10%;
   width: 24%;
   padding: 0px;
@@ -27,7 +27,7 @@ body {
 
 .column2 {
   position: absolute;
-  top: 25px;
+  top: 225px;
   left: 38%;
   width: 24%;
   padding: 0px;
@@ -35,7 +35,7 @@ body {
 
 .column3 {
   position: absolute;
-  top: 25px;
+  top: 225px;
   left: 66%;
   width: 24%;
   padding: 0px;
