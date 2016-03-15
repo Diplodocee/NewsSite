@@ -47,6 +47,10 @@ h1 small {
   background-color: #eee;
 }
 
+.box:hover {
+  background-color: #999;
+}
+
 .box a.read-more {
   text-decoration: underline;
 }
