@@ -22,7 +22,6 @@ body {
   top: 250px;
   left: 10%;
   width: 24%;
-  padding: 0px;
 }
 
 .column2 {
@@ -30,7 +29,6 @@ body {
   top: 250px;
   left: 38%;
   width: 24%;
-  padding: 0px;
 }
 
 .column3 {
@@ -38,15 +36,14 @@ body {
   top: 250px;
   left: 66%;
   width: 24%;
-  padding: 0px;
 }
 
 }
 
 .box {
   margin-top: 25px;
-  padding: 20px;
   width: 100%;
+  padding: 20px;
 }
 
 .box:last-child {
