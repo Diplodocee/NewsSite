@@ -50,6 +50,13 @@ h1 small {
   text-decoration: underline;
 }
 
+.filler {
+  background-color: #eee;
+  border-style: solid;
+  border-width: 10px;
+  border-color: #eee;
+}
+
 .footer {
   background-color: #999;
   color: #fff;
