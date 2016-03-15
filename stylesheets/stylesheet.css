@@ -20,7 +20,6 @@ body {
 .column1 {
   position: absolute;
   top: 260px;
-  bottom: 150px;
   left: 10%;
   width: 24%;
 }
@@ -28,7 +27,6 @@ body {
 .column2 {
   position: absolute;
   top: 260px;
-  bottom: 150px;
   left: 38%;
   width: 24%;
 }
@@ -36,7 +34,7 @@ body {
 .column3 {
   position: absolute;
   top: 260px;
-  bottom: 150px;
+  height: 100%;
   left: 66%;
   width: 24%;
 }
