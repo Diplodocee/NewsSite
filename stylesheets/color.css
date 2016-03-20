@@ -32,16 +32,16 @@ h1 small {
 
 
 .box {
-  background-color: #e2bf9c;
+  background-color: #eee6dd;
   border-style: solid;
   border-width: 10px;
-  border-color: #e2bf9c;
+  border-color: #eee6dd;
 }
 
 .box:hover {
   border-style: dashed;
   border-width: 3px;
-  border-color: #e2bf9c;
+  border-color: #eee6dd;
   background-color: #999
 }
 
