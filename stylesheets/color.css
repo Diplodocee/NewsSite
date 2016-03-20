@@ -6,7 +6,7 @@ body {
   font-size: 14px;
   line-height: 1.5;
   color: #000;
-  background-color: #ccc;
+  background-color: #e2bf9c;
   background-image: url("http://drive.google.com/uc?export=view&id=0B-y5zr0KbFiNblI4Z05hbTBLNEk");
 }
 
@@ -32,7 +32,7 @@ h1 small {
 
 
 .box {
-  background-color: #eee;
+  background-color: #e2bf9c;
   border-style: solid;
   border-width: 10px;
   border-color: #eee;
@@ -41,7 +41,7 @@ h1 small {
 .box:hover {
   border-style: dashed;
   border-width: 3px;
-  border-color: #eee;
+  border-color: #e2bf9c;
   background-color: #999
 }
 
