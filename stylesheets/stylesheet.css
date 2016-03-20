@@ -11,11 +11,11 @@ body {
 
 .heading h1 {
   color: #87CEFA;
-  font-family: "Palatino", sans-serif;
+  font-family: "Palatino", "Book Antiqua", sans-serif;
   font-size:100px;
   text-align: center;
   width:100%;
-  padding-top: 50px;
+  padding-top: 30px;
 }
 
 .column1 {
