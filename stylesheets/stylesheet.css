@@ -10,18 +10,18 @@ body {
 }
 
 .heading h1 {
-  color: #87CEFA;
+  color: #f4e6d7;
   font-family: "Palatino", "Book Antiqua", sans-serif;
   font-size:100px;
   text-align: center;
   width:100%;
-  padding-top: 30px;
+  padding-top: 25px;
 }
 
 .heading h2 {
   position: absolute;
-  top: 200px;
-  color: #87CEFA;
+  top: 190px;
+  color: #f4e6d7;
   font-family: "Palatino", "Book Antiqua", sans-serif;
   font-size:20px;
   text-align: center;
