@@ -5,17 +5,17 @@ body {
 .heading {
   position: absolute;
   top: 70px;
-  top: 3%;
+  top: 3vw;
   left: 11%;
   width: 78%;
   height: 200px;
-  height: 12vw;
+  height: 11vw;
 }
 
 .heading h1 {
   position: absolute;
   top: 6%;
-  text-align: center;
+  left: 30%;
   color: #eee6dd;
   font-family: "Palatino", "Book Antiqua", sans-serif;
   font-size:100px;
@@ -35,6 +35,7 @@ body {
 .column1 {
   position: absolute;
   top: 17%;
+  top: 17vw;
   left: 11%;
   width: 24%;
 }
@@ -42,6 +43,7 @@ body {
 .column2 {
   position: absolute;
   top: 17%;
+  top: 17vw;
   left: 38%;
   width: 24%;
 }
@@ -49,6 +51,7 @@ body {
 .column3 {
   position: absolute;
   top: 17%;
+  top: 17vw;
   left: 65%;
   width: 24%;
 }
