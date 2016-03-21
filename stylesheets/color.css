@@ -55,6 +55,9 @@ h1 small {
 }
 
 .footer {
+  border-style: solid;
+  border-color: #999;
   background-color: #eee6dd;
+  color: #999;
   font-style: italic;
 }
