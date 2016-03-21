@@ -6,50 +6,50 @@ body {
   position: absolute;
   top: 70px;
   top: 3%;
-  left: 10%;
-  width: 80%;
+  left: 11%;
+  width: 78%;
   height: 200px;
   height: 11%;
 }
 
 .heading h1 {
+  position: absolute;
+  top: 6%;
+  text-align: center;
   color: #eee6dd;
   font-family: "Palatino", "Book Antiqua", sans-serif;
   font-size:100px;
   font-size:5.3vw;
-  text-align: center;
-  width:100%;
-  padding-top: 25px;
 }
 
 .heading h2 {
   position: absolute;
-  top: 190px;
+  top: 12%;
+  left: 45%;
   color: #eee6dd;
   font-family: "Palatino", "Book Antiqua", sans-serif;
-  font-size:20px;
-  text-align: center;
-  width:100%;
+  font-size: 20px;
+  font-size: 1.1vw;
 }
 
 .column1 {
   position: absolute;
-  top: 260px;
-  left: 10%;
+  top: 17%;
+  left: 11%;
   width: 24%;
 }
 
 .column2 {
   position: absolute;
-  top: 260px;
+  top: 17%;
   left: 38%;
   width: 24%;
 }
 
 .column3 {
   position: absolute;
-  top: 260px;
-  left: 66%;
+  top: 17%;
+  left: 65%;
   width: 24%;
 }
 
