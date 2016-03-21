@@ -3,9 +3,13 @@ body {
 }
 
 .heading {
-  margin: auto;
+  position: absolute;
+  top: 70px;
+  top: 3vw;
+  left: 10%;
   width: 80%;
   height: 200px;
+  height: 11vw;
 }
 
 .heading h1 {
