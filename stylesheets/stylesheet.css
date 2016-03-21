@@ -66,11 +66,11 @@ body {
 }
 
 .box h2 {
-  font-size: 5vw;
+  font-size: 1.5vw;
 }
 
 .box p {
-  font-size: 2vw;
+  font-size: .6vw;
 }
 
 .box:hover {
