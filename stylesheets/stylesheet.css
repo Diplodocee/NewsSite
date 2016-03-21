@@ -14,7 +14,7 @@ body {
 
 .heading h1 {
   position: absolute;
-  top: 6vw;
+  top: 2vw;
   left: 18%;
   color: #eee6dd;
   font-family: "Palatino", "Book Antiqua", sans-serif;
@@ -24,7 +24,7 @@ body {
 
 .heading h2 {
   position: absolute;
-  top: 12vw;
+  top: 8vw;
   left: 45%;
   color: #eee6dd;
   font-family: "Palatino", "Book Antiqua", sans-serif;
